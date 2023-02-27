@@ -1,0 +1,11 @@
+/.vs
+/API/obj/
+/API/bin/
+/Application/obj/
+/Application/bin/
+/CrossCutting/obj/
+/CrossCutting/bin/
+/Domain/obj/
+/Domain/bin/
+/Repository/obj/
+/Repository/bin/
